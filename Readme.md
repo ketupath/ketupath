@@ -8,7 +8,7 @@ Perkenalkan nama saya **Ketupath**.
 
 * Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ketupath/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/ketupath/](https://www.linkedin.com/in/muhammad-raihan-381815220/))ku ya.
 
 <p align="left">
 <a href="https://github.com/ketupath">
