@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Ketupath**.
+Perkenalkan nama saya **Raihan**.
 
 * Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).
 
